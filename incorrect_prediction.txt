@@ -1,0 +1,18 @@
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/dcbd3fa08.png, Black-grass, Loose Silky-bent, 0.907672643661499 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/9443199bb.png, Black-grass, Loose Silky-bent, 0.9082040190696716 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/6afa7c717.png, Black-grass, Loose Silky-bent, 0.517593502998352 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/91a175741.png, Black-grass, Loose Silky-bent, 0.9310043454170227 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/c39541d9a.png, Black-grass, Loose Silky-bent, 0.7331627011299133 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/90ea1e327.png, Black-grass, Loose Silky-bent, 0.5070755481719971 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/a5f23b59f.png, Black-grass, Loose Silky-bent, 0.7061465978622437 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/ed4b42936.png, Black-grass, Loose Silky-bent, 0.9410673975944519 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5e4d1ee0d.png, Black-grass, Loose Silky-bent, 0.9118116497993469 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5e21fa6f1.png, Black-grass, Loose Silky-bent, 0.6954250335693359 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/18fe42109.png, Common wheat, Black-grass, 0.8158665895462036 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/fc03ee09b.png, Common wheat, Black-grass, 0.6600102186203003 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/730b45269.png, Loose Silky-bent, Black-grass, 0.9689383506774902 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/73a56527d.png, Loose Silky-bent, Black-grass, 0.690973699092865 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/f6439330f.png, Loose Silky-bent, Black-grass, 0.8146756291389465 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/77291b3ad.png, Loose Silky-bent, Black-grass, 0.6918962597846985 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/af355776d.png, Loose Silky-bent, Black-grass, 0.5006283521652222 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/728642410.png, Sugar beet, Common Chickweed, 0.7244766354560852 

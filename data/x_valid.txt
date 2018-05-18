@@ -1,0 +1,482 @@
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/b4b8b1507.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/dcbd3fa08.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/3fb361e79.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/9443199bb.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/6afa7c717.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/d441eeda3.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5d358beb9.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/14719a83e.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/86dfe670c.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/91a175741.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/c39541d9a.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/90ea1e327.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/3b7d1fe82.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/bac2710a2.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/a5f23b59f.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/ed4b42936.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/77629b9e3.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/70bfa70ff.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/d3ff1a639.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5a1295fb4.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/2aa60045d.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5e4d1ee0d.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/5e21fa6f1.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/cbeb36bc6.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/c0cbaa32c.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/e5f50d22a.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Black-grass/d090d6b25.png, 0 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/92184e2d6.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/c5cca5955.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/022179d65.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/503bc583a.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/85637dbdc.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/410598462.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/b207ff8b2.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/dfb3d9a79.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/55d410aca.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/c19bc586d.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/5c75eae98.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/0fa930fa9.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/b7b28f840.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/65ea4e47c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/5db43df54.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/5f331f09c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/17fa6cd9c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/dd021836c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/99a661104.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/6a84bdf5f.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/ec84cacfe.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/9d7f4d92c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/34dab243e.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/7066f950c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/654bb174e.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/c0aac7fc2.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/13d67633c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/b182916bb.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/67af4b8ca.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/385a498a1.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/1b534df5b.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/a7a3c2a2f.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/1f6df012f.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/d1b362c43.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/fd3e62689.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/92209cbd5.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/fc584691c.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/f0ced8a62.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Charlock/1a92d7c2a.png, 1 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/8a112bfb4.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/5439f9f36.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/fc26df0cf.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/15f41649c.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/420f3654f.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/78dde1704.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/94fa687c1.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/360f883f6.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/1b28a0668.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/7b9729321.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/0bcf29af7.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/a562c2b14.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/d17e2cfa1.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/7fa1a92ca.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/3ccb22924.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/06f447848.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/85b23f3e6.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/491b8502a.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/ba79cdbcb.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/d3a7492ff.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/899877fe1.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/7f3369186.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/9e250b25f.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/9214c2997.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/a4cfc9036.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/1e33a3dce.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/c4a974463.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/6895ae7c9.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Cleavers/2e547d792.png, 2 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/c7d7cbd73.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/27f0e13ae.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/8d6288d95.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/dc467ebaa.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/2e5123448.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/3a8202693.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/611fc426b.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0a8227413.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/18b1f733a.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/b0b543038.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/d018c5d19.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/92e13ce8b.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/48bc50005.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/4cc8e1334.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/9b09003fa.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/38fb092f0.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/c2f4c85d1.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/cbd1cffdb.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/990f7310e.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/186660f3e.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/b9c8f7046.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0704bc02b.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/786df0a52.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/5f2d126eb.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/9253be20b.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/d13abd726.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/cba7f2307.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/dfa83c1d5.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/1265c4a42.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/27a78683b.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/a5b9d84a3.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/dd76f845f.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/8575a6820.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0f872f09e.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/eaeb6ab45.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/e44eed3d0.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0c07d7246.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/61cb94bb2.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/bb7ac7386.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/ac0b860c4.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/6504263bb.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/eddaf3d47.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/486885e8d.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/ee1935fb6.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/930ebfb48.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/f1d313b52.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/bc92f8149.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/672982f1f.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/c67da9c32.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/1b32b40d8.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/57eaf2687.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/841b56a7c.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/846dfcd48.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0965e0741.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/04b597a3f.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/a04f38d7e.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/f394b73f6.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/0a1c68ef9.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/a9e3465f8.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/1a459e1de.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/6cc932059.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common Chickweed/c6cf113bc.png, 3 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/18fe42109.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/cac003231.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/6d428b06d.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/68c176337.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/a1c72af26.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/b3166a9b3.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/106bfb13a.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/fc03ee09b.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/5386db683.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/8b6ab9181.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/9c8cf72ed.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/a25f5ccb5.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/6cea44433.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/94cb20fd9.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/4954fcb0d.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/835da3f0f.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/77292d8e9.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/a40bd448a.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/ac564c384.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/5089de64b.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/2c4412af8.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/0ec23ca76.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Common wheat/0a4a26651.png, 4 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/ea6e91be6.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/f0dbc5e1e.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/f18419d0c.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/9812f690c.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/d674d9e99.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/c740aa55a.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/6dc0cf03c.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/4f2f35ea4.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/661a6866f.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/bd4003440.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/d233d03bb.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/bbcc5bbb2.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/3c51bc884.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/35083f3c2.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/e5e1f6d81.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/08fe5538d.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/d6576bc79.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/4374a9eef.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/3ac434ccd.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/565d13821.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/fbd8e91d3.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/8689b3765.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/df9ce5e1f.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/86536f469.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/f348e35e9.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/2f80532a2.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/44db98326.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/1797f5460.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/9e59fcd81.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/5ca463797.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/59b1f956d.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/f44059ad0.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/b89d9f403.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/22d4656ff.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/83f907552.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/0c03386a9.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/1d9743b35.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/e805aa0a2.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/fea20eec7.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/302a3a8ba.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/df17b3ba5.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/45c197012.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/1688c9a5f.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/c1d528ca2.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/9f4788348.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/88e4077c5.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/85e6fa66d.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Fat Hen/91bc7d91c.png, 5 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/13c51b503.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/33709e412.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/92835e424.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/972c2c8f7.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/d6c2bcfe8.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/3f130d295.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/8742a85f0.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/9289f58fd.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/730b45269.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/f099e9a3c.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/9dee801a8.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/f2b027c00.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/7a8370ede.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/6604aadc8.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/17b2de877.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/fe2016da9.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/93d9858f0.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/aa7620ab1.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4239dbbcd.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/9306b0731.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/5cb45767e.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/5a141b349.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/e9e0e6feb.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/3affdd752.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/16ca17775.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/73a56527d.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/5db7b4179.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4bbc1a820.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/858541bfd.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/05067feb7.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4749f4ce1.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/57d19be1b.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/843adc7e9.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/463ec2b22.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/2424d70aa.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/667950000.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/7890b9f6a.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/e0c207a01.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/a60d26781.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/40a8eb603.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/8bfc50c8e.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/a17554c02.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/f6439330f.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/77291b3ad.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4609dd9e5.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4fb56230e.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/a89d6d72f.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/6530d3c24.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/4b7940ed6.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/224274f93.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/299fcd56d.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/ae0dc5708.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/1eddf5d80.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/624288db1.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/8844e8224.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/93f8327c5.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/c14ba6a17.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/8fab11dfb.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/fd0430c6e.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/298d541a6.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/ac6377773.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/d106fca01.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/065757bb0.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/af355776d.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/cc4f96146.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Loose Silky-bent/53366d2eb.png, 6 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/85ae913c3.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/fdde1498f.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/e6d8ba41c.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/edd80f8a8.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/9977e50bc.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/2187ec5fa.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/5b94fab70.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/abadd72ab.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/65ba0f497.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/f60369038.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/c08835318.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/8cd93b279.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/388317d6c.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/f135a739f.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/64a6f6f65.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/006196e1c.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/665b921f2.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/85c25b5a2.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/a4e71c6c3.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/d3963a326.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/2d9adb800.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/59f972ef4.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Maize/8c71f9b84.png, 7 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8fed2b599.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/0438cc647.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8bf8cb21a.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8bc379617.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/c2c5708be.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/3456b7270.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/356088e4b.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/2e4ae28f4.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/62d1b63f3.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/b75110745.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/da97861ed.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/9f76f53bd.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/bf1ef2197.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/9524b09c2.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8334bb575.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/6956b6e58.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/525f70f91.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/41c73ed49.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/99ec6cf98.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/51a00928f.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8d65bde6a.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/9b40fd5b4.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/01e90ef62.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/54f414890.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8ff65b054.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/a5976876c.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/aa4b8d708.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/2bdd11146.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/7b1d526d2.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/fb1ba1eb6.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/083a8c7d2.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/7b95f2701.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/1c9b1eb8b.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/d9ae7cf9d.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/3a64d0130.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/f7bbaeed3.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/79eb0958f.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/2c6d58f91.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/6f6b0c523.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/025155400.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/05f76f20c.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/63bbcaafe.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/1ffabce72.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/3362b3eae.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/38ddbde70.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/22b53d9e5.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/ba30944b9.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/6901b24e7.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/5423cd5b5.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/478505edb.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/8842741cb.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Scentless Mayweed/07bed57ea.png, 8 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/8f72e841a.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/1b547ac21.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/bb8144729.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/2a5b49dc8.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/ab3a8d4d6.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/9451dd4d2.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/18bec843e.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/3827a969f.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/d26e5c8fc.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/1a067ec6e.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/a59d03b99.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/afb08d410.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/6fe86aa3b.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/0b1df6f5a.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/e19023937.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/917af97ab.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/953ced7c6.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/905aee3f2.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/95e89ddd3.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/6ce2cfd88.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/5f87b1a93.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/c819c3429.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/15ca828c8.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Shepherds Purse/eae41be4f.png, 9 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/6b666de44.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/3c6f4fe90.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/aa080431d.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/d6515ed79.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/ca507e99a.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/5178de55d.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/cf60b7687.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/d6e8dd4ac.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/a95fe2665.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/167cf0978.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/e910500a6.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/9f87371b2.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/e8a99d459.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/2fa64903c.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/de6fa0b6c.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/4c21d89be.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/f012e8350.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/04559c69c.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/6793f76c0.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/82e3f3c74.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/01e18fd1a.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/1a73adfd9.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/c2922dd4b.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/b0de6838e.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/87e65b6d9.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/77add63eb.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/a7864d8f3.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/4731cb066.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/18a460203.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/8d3505642.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/00e049fe8.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/691b35920.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/3810c2e11.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/108976349.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/ece5a62ad.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/d8e9efd02.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/2e03bc81d.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/5dbc8a7d9.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/3cdca6a6c.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/8e0da1b17.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/d21bfbaa7.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/465bff6eb.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/c629f1db5.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/c77195c15.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/c6ffe3328.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/81bc7934b.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/3f9dd7d18.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/29c3df915.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/137126847.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Small-flowered Cranesbill/6f29a7ddb.png, 10 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/728642410.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/6d63eb98f.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/8f099d914.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/3112fb5d7.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/ea2b5a53e.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/ee24d08ce.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/f78fcd305.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/905ce5eb9.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/6724b064e.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/e7c7bab19.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/3041d1470.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/acf5eabef.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/57ebf5927.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/5255463b3.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/3109caad6.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/1290426f8.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/866130efe.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/904f0f781.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/ad5397f8a.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/5f69d5659.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/b0d647301.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/f5e7d66b9.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/c4c87351c.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/9ee5dbda4.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/5be7ccae6.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/303f718cc.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/86a304fad.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/b8418755e.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/99926b786.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/494e9a680.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/4dcd59e5b.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/5e10b3707.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/201cdcf53.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/89dd2e861.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/87c521db5.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/0f30a59c2.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/8fafd3b98.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/095ba8b9d.png, 11 
+/fractal/home/kunal/kaggleplantseedlings/input/train/Sugar beet/31e905346.png, 11 
